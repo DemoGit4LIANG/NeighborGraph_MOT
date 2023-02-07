@@ -1,5 +1,5 @@
 # NeighborGraph_MOT
-Codes for the paper "Enhancing the association in MOT via neighbor graph"  
+Codes for the paper "Enhancing the association in multi-object tracking via neighbor graph"  
 使用GCN增强多目标跟踪中的外观特征建模和数据关联
 
 
